@@ -1,0 +1,561 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.7)  8 MAR 2020 02:01
+entering extended mode
+**./informe.tex
+(informe.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk11.clo"
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/02/14 3.40 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen137
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count177
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count178
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count179
+\lst@gtempboxa=\box45
+\lst@token=\toks16
+\lst@length=\count180
+\lst@currlwidth=\dimen138
+\lst@column=\count181
+\lst@pos=\count182
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count183
+\lst@lineno=\count184
+\lst@maxwidth=\dimen141
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count185
+\lst@skipnumbers=\count186
+\lst@framebox=\box46
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box47
+)
+(informe.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ (PROYECTO/generalidades.aux) (PROYECTO/Metodologia.aux)
+(ARQUITECTURA/ADM_Archimate.aux) (ARQUITECTURA/negocio.aux)
+(ARQUITECTURA/aplicacion.aux) (ARQUITECTURA/tecnologia.aux)
+(ARQUITECTURA/proyecto.aux) (ARQUITECTURA/motivacion.aux)
+(ARQUITECTURA/estrategia.aux) (PATRONES/Patrones.aux)
+(PATRONES/Creacionales.aux
+
+LaTeX Warning: Label `fig:mrsingleton' multiply defined.
+
+
+LaTeX Warning: Label `fig:mrsingleton' multiply defined.
+
+) (PATRONES/Estructurales.aux) (PATRONES/Comportamineto.aux))
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen142
+\scratchbox=\box48
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen143
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+\c@lstlisting=\count194
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 46.
+
+[1
+
+
+{C:/Users/daniel.rodriguez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] 
+[2
+
+] (informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 7.
+ [3]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [4])
+\tf@toc=\write3
+\openout3 = `informe.toc'.
+
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [5]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [6
+
+] (informe.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `informe.lof'.
+
+ [7]
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [8
+
+] [9] [10]
+\openout2 = `PROYECTO/generalidades.aux'.
+
+
+(PROYECTO/generalidades.tex
+Cap\'{\i }tulo 1.
+) [11
+
+
+]
+\openout2 = `PROYECTO/Metodologia.aux'.
+
+ (PROYECTO/Metodologia.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [12
+
+
+
+]
+Cap\'{\i }tulo 2.
+) [13]
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+ [14
+
+
+] [15] [16]
+\openout2 = `ARQUITECTURA/ADM_Archimate.aux'.
+
+ (ARQUITECTURA/ADM_Archimate.tex
+Cap\'{\i }tulo 3.
+[17
+
+
+]
+<ARQUITECTURA/imgs/adm.png, id=61, 1606.0pt x 1277.77374pt>
+File: ARQUITECTURA/imgs/adm.png Graphic file (type png)
+<use ARQUITECTURA/imgs/adm.png>
+Package pdftex.def Info: ARQUITECTURA/imgs/adm.png  used on input line 11.
+(pdftex.def)             Requested size: 251.9989pt x 200.49004pt.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [18 <./ARQUITECTURA/imgs/adm.png>]
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [19]
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [20])
+\openout2 = `ARQUITECTURA/negocio.aux'.
+
+ (ARQUITECTURA/negocio.tex
+Cap\'{\i }tulo 4.
+[21
+
+
+
+]
+<ARQUITECTURA/imgs/MOrganizacion.pdf, id=75, 380.42125pt x 147.55125pt>
+File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/MOrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
+e 11.
+(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [22 <./ARQUITECTURA/imgs/MOrganizacion.pdf>]
+<ARQUITECTURA/imgs/COrganizacion.pdf, id=80, 155.58125pt x 149.55875pt>
+File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/COrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
+e 21.
+(pdftex.def)             Requested size: 180.0pt x 173.03413pt.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [23 <./ARQUITECTURA/imgs/COrganizacion.pdf>]
+File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/MOrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
+e 34.
+(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [24]
+<ARQUITECTURA/imgs/COrganizacion1.pdf, id=95, 258.9675pt x 154.5775pt>
+File: ARQUITECTURA/imgs/COrganizacion1.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/COrganizacion1.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion1.pdf  used on input li
+ne 44.
+(pdftex.def)             Requested size: 180.0pt x 107.44637pt.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [25 <./ARQUITECTURA/imgs/COrganizacion1.pdf>]
+File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/MOrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
+e 56.
+(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [26]
+File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/COrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
+e 66.
+(pdftex.def)             Requested size: 180.0pt x 173.03413pt.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+
+[27]
+File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/MOrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
+e 78.
+(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [28]
+File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/COrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
+e 88.
+(pdftex.def)             Requested size: 180.0pt x 173.03413pt.
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [29]
+File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/MOrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
+e 100.
+(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [30]
+File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/COrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
+e 110.
+(pdftex.def)             Requested size: 180.0pt x 173.03413pt.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+
+Overfull \hbox (20.57933pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 4.6.  PUNTO DE VISTA DE COOPERACI[]ON DE PROCESO DE NEGOCIO
+ \OT1/cmr/m/n/10.95 31
+ []
+
+[31]
+File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/MOrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
+e 123.
+(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+ [32]
+File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
+<use ARQUITECTURA/imgs/COrganizacion.pdf>
+Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
+e 133.
+(pdftex.def)             Requested size: 180.0pt x 173.03413pt.
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
+ [33])
+\openout2 = `ARQUITECTURA/aplicacion.aux'.
+
+ (ARQUITECTURA/aplicacion.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [34
+
+
+
+]
+Cap\'{\i }tulo 5.
+[35])
+\openout2 = `ARQUITECTURA/tecnologia.aux'.
+
+ (ARQUITECTURA/tecnologia.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [36
+
+
+
+]
+Cap\'{\i }tulo 6.
+[37])
+\openout2 = `ARQUITECTURA/proyecto.aux'.
+
+ (ARQUITECTURA/proyecto.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [38
+
+
+
+]
+Cap\'{\i }tulo 7.
+[39])
+\openout2 = `ARQUITECTURA/motivacion.aux'.
+
+ (ARQUITECTURA/motivacion.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [40
+
+
+
+]
+Cap\'{\i }tulo 8.
+[41])
+\openout2 = `ARQUITECTURA/estrategia.aux'.
+
+ (ARQUITECTURA/estrategia.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [42
+
+
+
+]
+Cap\'{\i }tulo 9.
+[43])
+\openout2 = `PATRONES/Patrones.aux'.
+
+ (PATRONES/Patrones.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [44
+
+
+
+]
+Cap\'{\i }tulo 10.
+[45])
+\openout2 = `PATRONES/Creacionales.aux'.
+
+ (PATRONES/Creacionales.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [46
+
+
+
+]
+Cap\'{\i }tulo 11.
+[47]
+<PATRONES/imgs/MRSingleton.pdf, id=170, 309.155pt x 156.585pt>
+File: PATRONES/imgs/MRSingleton.pdf Graphic file (type pdf)
+<use PATRONES/imgs/MRSingleton.pdf>
+Package pdftex.def Info: PATRONES/imgs/MRSingleton.pdf  used on input line 11.
+(pdftex.def)             Requested size: 251.9989pt x 127.64073pt.
+<PATRONES/imgs/MCSingleton.pdf, id=171, 231.86626pt x 157.58875pt>
+File: PATRONES/imgs/MCSingleton.pdf Graphic file (type pdf)
+<use PATRONES/imgs/MCSingleton.pdf>
+Package pdftex.def Info: PATRONES/imgs/MCSingleton.pdf  used on input line 19.
+(pdftex.def)             Requested size: 251.9989pt x 171.27536pt.
+<PATRONES/imgs/MISingleton.pdf, id=172, 220.825pt x 119.44624pt>
+File: PATRONES/imgs/MISingleton.pdf Graphic file (type pdf)
+<use PATRONES/imgs/MISingleton.pdf>
+Package pdftex.def Info: PATRONES/imgs/MISingleton.pdf  used on input line 26.
+(pdftex.def)             Requested size: 251.9989pt x 136.3141pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+[48 <./PATRONES/imgs/MRSingleton.pdf> <./PATRONES/imgs/MCSingleton.pdf>])
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+
+[49 <./PATRONES/imgs/MISingleton.pdf>]
+\openout2 = `PATRONES/Estructurales.aux'.
+
+ (PATRONES/Estructurales.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [50
+
+
+
+]
+Cap\'{\i }tulo 12.
+[51])
+\openout2 = `PATRONES/Comportamineto.aux'.
+
+ (PATRONES/Comportamineto.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [52
+
+
+
+]
+Cap\'{\i }tulo 13.
+[53])
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [54
+
+
+] [55] [56] (informe.bbl) [57
+
+] (informe.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+
+(PROYECTO/generalidades.aux) (PROYECTO/Metodologia.aux)
+(ARQUITECTURA/ADM_Archimate.aux) (ARQUITECTURA/negocio.aux)
+(ARQUITECTURA/aplicacion.aux) (ARQUITECTURA/tecnologia.aux)
+(ARQUITECTURA/proyecto.aux) (ARQUITECTURA/motivacion.aux)
+(ARQUITECTURA/estrategia.aux) (PATRONES/Patrones.aux)
+(PATRONES/Creacionales.aux) (PATRONES/Estructurales.aux)
+(PATRONES/Comportamineto.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3849 strings out of 481556
+ 57938 string characters out of 2923602
+ 491122 words of memory out of 3000000
+ 18976 multiletter control sequences out of 15000+200000
+ 539420 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,7n,37p,455b,608s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti10.pfb>
+Output written on informe.pdf (57 pages, 771949 bytes).
+PDF statistics:
+ 262 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

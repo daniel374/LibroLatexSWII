@@ -1,0 +1,60 @@
+\babel@toc {spanish}{}
+\contentsline {part}{I\hspace {1em}PROYECTO}{9}%
+\contentsline {chapter}{\numberline {1}Generalidades}{11}%
+\contentsline {chapter}{\numberline {2}Metodología}{13}%
+\contentsline {part}{II\hspace {1em}ARQUITECTURA}{15}%
+\contentsline {chapter}{\numberline {3}ADM-Archimate}{17}%
+\contentsline {section}{\numberline {3.1}Introducción}{17}%
+\contentsline {section}{\numberline {3.2}ADM}{18}%
+\contentsline {section}{\numberline {3.3}Archimate}{19}%
+\contentsline {section}{\numberline {3.4}Caso de Estudio}{20}%
+\contentsline {subsection}{\numberline {3.4.1}Misión}{20}%
+\contentsline {subsection}{\numberline {3.4.2}Visión}{20}%
+\contentsline {subsection}{\numberline {3.4.3}Procesos}{20}%
+\contentsline {subsection}{\numberline {3.4.4}Roles}{20}%
+\contentsline {subsection}{\numberline {3.4.5}Funciones}{20}%
+\contentsline {subsection}{\numberline {3.4.6}Objetivos Organizacionales}{20}%
+\contentsline {chapter}{\numberline {4}Capa de Negocio}{21}%
+\contentsline {section}{\numberline {4.1}Introducción}{21}%
+\contentsline {section}{\numberline {4.2}Punto de Vista de Organización}{22}%
+\contentsline {subsection}{\numberline {4.2.1}Modelo}{22}%
+\contentsline {subsection}{\numberline {4.2.2}Caso de Estudio}{23}%
+\contentsline {section}{\numberline {4.3}Punto de Vista de Coperación de Actor}{24}%
+\contentsline {subsection}{\numberline {4.3.1}Modelo}{24}%
+\contentsline {subsection}{\numberline {4.3.2}Caso de Estudio}{25}%
+\contentsline {section}{\numberline {4.4}Punto de Vista de Fcunión de Negocio}{26}%
+\contentsline {subsection}{\numberline {4.4.1}Modelo}{26}%
+\contentsline {subsection}{\numberline {4.4.2}Caso de Estudio}{27}%
+\contentsline {section}{\numberline {4.5}Punto de Vista de Proceso de Negocio}{28}%
+\contentsline {subsection}{\numberline {4.5.1}Modelo}{28}%
+\contentsline {subsection}{\numberline {4.5.2}Caso de Estudio}{29}%
+\contentsline {section}{\numberline {4.6}Punto de Vista de Cooperación de Proceso de Negocio}{30}%
+\contentsline {subsection}{\numberline {4.6.1}Modelo}{30}%
+\contentsline {subsection}{\numberline {4.6.2}Caso de Estudio}{31}%
+\contentsline {section}{\numberline {4.7}Punto de Producto}{32}%
+\contentsline {subsection}{\numberline {4.7.1}Modelo}{32}%
+\contentsline {subsection}{\numberline {4.7.2}Caso de Estudio}{33}%
+\contentsline {chapter}{\numberline {5}Capa de Aplicación}{35}%
+\contentsline {section}{\numberline {5.1}Introducción}{35}%
+\contentsline {chapter}{\numberline {6}Capa de Tecnología}{37}%
+\contentsline {section}{\numberline {6.1}Introducción}{37}%
+\contentsline {chapter}{\numberline {7}Capa de Proyecto}{39}%
+\contentsline {section}{\numberline {7.1}Introducción}{39}%
+\contentsline {chapter}{\numberline {8}Capa de Motivación}{41}%
+\contentsline {section}{\numberline {8.1}Introducción}{41}%
+\contentsline {chapter}{\numberline {9}Capa de Estartegia}{43}%
+\contentsline {section}{\numberline {9.1}Introducción}{43}%
+\contentsline {chapter}{\numberline {10}Patrones GoF}{45}%
+\contentsline {section}{\numberline {10.1}Introducción}{45}%
+\contentsline {chapter}{\numberline {11}Patrones Creacionales}{47}%
+\contentsline {section}{\numberline {11.1}Introducción}{47}%
+\contentsline {section}{\numberline {11.2}Singleton}{48}%
+\contentsline {subsection}{\numberline {11.2.1}Realización}{48}%
+\contentsline {subsection}{\numberline {11.2.2}Modelo}{48}%
+\contentsline {subsection}{\numberline {11.2.3}Implementación}{48}%
+\contentsline {subsection}{\numberline {11.2.4}Fuentes}{49}%
+\contentsline {chapter}{\numberline {12}Patrones Estructurales}{51}%
+\contentsline {section}{\numberline {12.1}Introducción}{51}%
+\contentsline {chapter}{\numberline {13}Patrones de Comportamiento}{53}%
+\contentsline {section}{\numberline {13.1}Introducción}{53}%
+\contentsline {part}{III\hspace {1em}REFLEXIONES}{55}%
