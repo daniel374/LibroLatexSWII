@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.7)  8 MAR 2020 02:22
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.7)  8 MAR 2020 02:30
->>>>>>> naylen
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.7)  9 MAR 2020 15:01
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -280,16 +276,25 @@ Cap\'{\i }tulo 4.
 
 
 ]
-<ARQUITECTURA/imgs/MOrganizacion.pdf, id=75, 380.42125pt x 147.55125pt>
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<ARQUITECTURA/imgs/MOrganizacion.pdf, id=75, 580.08719pt x 232.9503pt>
 File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/MOrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
 e 11.
-(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
+(pdftex.def)             Requested size: 360.0pt x 144.57343pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [22 <./ARQUITECTURA/imgs/MOrganizacion.pdf>]
-<ARQUITECTURA/imgs/COrganizacion.pdf, id=80, 155.58125pt x 149.55875pt>
+[22 <./ARQUITECTURA/imgs/MOrganizacion.pdf
+
+pdfTeX warning: pdflatex.exe (file ./ARQUITECTURA/imgs/MOrganizacion.pdf): PDF 
+inclusion: invalid other resource which is no dict (key 'ProcSets', type <array
+>); ignored.
+>]
+<ARQUITECTURA/imgs/COrganizacion.pdf, id=93, 155.58125pt x 149.55875pt>
 File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/COrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
@@ -298,71 +303,84 @@ e 21.
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  [23 <./ARQUITECTURA/imgs/COrganizacion.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+
+ []
+
 File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/MOrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
-e 34.
-(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
- [24]
-<ARQUITECTURA/imgs/COrganizacion1.pdf, id=95, 258.9675pt x 154.5775pt>
+e 38.
+(pdftex.def)             Requested size: 360.0pt x 144.57343pt.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+[24]
+<ARQUITECTURA/imgs/COrganizacion1.pdf, id=108, 258.9675pt x 154.5775pt>
 File: ARQUITECTURA/imgs/COrganizacion1.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/COrganizacion1.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion1.pdf  used on input li
-ne 44.
+ne 48.
 (pdftex.def)             Requested size: 180.0pt x 107.44637pt.
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
  [25 <./ARQUITECTURA/imgs/COrganizacion1.pdf>]
 File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/MOrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
-e 56.
-(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+e 60.
+(pdftex.def)             Requested size: 360.0pt x 144.57343pt.
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
  [26]
 File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/COrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
-e 66.
+e 70.
 (pdftex.def)             Requested size: 180.0pt x 173.03413pt.
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
-
-[27]
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [27]
 File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/MOrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
-e 78.
-(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
+e 82.
+(pdftex.def)             Requested size: 360.0pt x 144.57343pt.
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
  [28]
 File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/COrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
-e 88.
+e 92.
 (pdftex.def)             Requested size: 180.0pt x 173.03413pt.
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
  [29]
 File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/MOrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
-e 100.
-(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
-LaTeX Info: Redefining \. on input line 105.
-LaTeX Info: Redefining \% on input line 105.
+e 104.
+(pdftex.def)             Requested size: 360.0pt x 144.57343pt.
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
  [30]
 File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/COrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
-e 110.
+e 114.
 (pdftex.def)             Requested size: 180.0pt x 173.03413pt.
-LaTeX Info: Redefining \. on input line 114.
-LaTeX Info: Redefining \% on input line 114.
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
 
 Overfull \hbox (20.57933pt too wide) has occurred while \output is active
 \OT1/cmr/m/sl/10.95 4.6.  PUNTO DE VISTA DE COOPERACI[]ON DE PROCESO DE NEGOCIO
@@ -373,18 +391,18 @@ Overfull \hbox (20.57933pt too wide) has occurred while \output is active
 File: ARQUITECTURA/imgs/MOrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/MOrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/MOrganizacion.pdf  used on input lin
-e 123.
-(pdftex.def)             Requested size: 360.0pt x 139.63478pt.
-LaTeX Info: Redefining \. on input line 128.
-LaTeX Info: Redefining \% on input line 128.
+e 127.
+(pdftex.def)             Requested size: 360.0pt x 144.57343pt.
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
  [32]
 File: ARQUITECTURA/imgs/COrganizacion.pdf Graphic file (type pdf)
 <use ARQUITECTURA/imgs/COrganizacion.pdf>
 Package pdftex.def Info: ARQUITECTURA/imgs/COrganizacion.pdf  used on input lin
-e 133.
+e 137.
 (pdftex.def)             Requested size: 180.0pt x 173.03413pt.
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
  [33])
 \openout2 = `ARQUITECTURA/aplicacion.aux'.
 
@@ -470,17 +488,17 @@ LaTeX Info: Redefining \% on input line 1.
 ]
 Cap\'{\i }tulo 11.
 [47]
-<PATRONES/imgs/MRSingleton.pdf, id=170, 309.155pt x 156.585pt>
+<PATRONES/imgs/MRSingleton.pdf, id=183, 309.155pt x 156.585pt>
 File: PATRONES/imgs/MRSingleton.pdf Graphic file (type pdf)
 <use PATRONES/imgs/MRSingleton.pdf>
 Package pdftex.def Info: PATRONES/imgs/MRSingleton.pdf  used on input line 11.
 (pdftex.def)             Requested size: 251.9989pt x 127.64073pt.
-<PATRONES/imgs/MCSingleton.pdf, id=171, 231.86626pt x 157.58875pt>
+<PATRONES/imgs/MCSingleton.pdf, id=184, 231.86626pt x 157.58875pt>
 File: PATRONES/imgs/MCSingleton.pdf Graphic file (type pdf)
 <use PATRONES/imgs/MCSingleton.pdf>
 Package pdftex.def Info: PATRONES/imgs/MCSingleton.pdf  used on input line 19.
 (pdftex.def)             Requested size: 251.9989pt x 171.27536pt.
-<PATRONES/imgs/MISingleton.pdf, id=172, 220.825pt x 119.44624pt>
+<PATRONES/imgs/MISingleton.pdf, id=185, 220.825pt x 119.44624pt>
 File: PATRONES/imgs/MISingleton.pdf Graphic file (type pdf)
 <use PATRONES/imgs/MISingleton.pdf>
 Package pdftex.def Info: PATRONES/imgs/MISingleton.pdf  used on input line 26.
@@ -543,13 +561,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3851 strings out of 481556
- 57954 string characters out of 2923602
+ 3854 strings out of 481556
+ 57992 string characters out of 2923602
  491122 words of memory out of 3000000
- 18978 multiletter control sequences out of 15000+200000
+ 18981 multiletter control sequences out of 15000+200000
  539420 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,37p,455b,608s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,7n,37p,506b,608s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
@@ -557,13 +575,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-<<<<<<< HEAD
-Output written on informe.pdf (57 pages, 771957 bytes).
-=======
-Output written on informe.pdf (57 pages, 773032 bytes).
->>>>>>> naylen
+Output written on informe.pdf (57 pages, 802596 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
+ 275 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
